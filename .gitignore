@@ -1,0 +1,11 @@
+# 排除脚本文件
+*.py
+*.sh
+
+# 排除 Jupyter checkpoint 缓存
+.ipynb_checkpoints/
+
+# 排除其他不需要的目录
+mask/
+soil_data/
+scripts/
