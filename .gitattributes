@@ -1,4 +1,5 @@
 *.pfb binary
+*.pfb.dist binary
 *.tif binary
 *.pfsol binary
 *.vtk binary
